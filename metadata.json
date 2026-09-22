@@ -1,0 +1,6 @@
+{
+  "name": "Đoán Từ Việt",
+  "description": "Ứng dụng thuật toán giải ô chữ tiếng Việt (hỗ trợ từ đơn và từ ghép, tùy chỉnh số ô ký tự) với từ điển offline đầy đủ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

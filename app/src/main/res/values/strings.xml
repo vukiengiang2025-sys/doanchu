@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Đoán Từ Việt</string>
+    <string name="game_title">Đoán Từ Việt</string>
+    <string name="btn_play">Chơi ngay</string>
+    <string name="btn_solver">Bộ giải xác suất</string>
+    <string name="btn_dictionary">Từ điển</string>
+    <string name="btn_statistics">Thống kê</string>
+    <string name="btn_settings">Cài đặt</string>
+    <string name="color_green_desc">Đúng chữ, đúng dấu, đúng vị trí</string>
+    <string name="color_yellow_desc">Đúng chữ, đúng dấu, sai vị trí</string>
+    <string name="color_blue_desc">Đúng nguyên âm, sai dấu</string>
+    <string name="color_gray_desc">Không có trong từ</string>
+</resources>
